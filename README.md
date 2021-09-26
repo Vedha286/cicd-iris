@@ -1,5 +1,5 @@
 # ML-Ops Demo/Assignment
-[![codecov](https://codecov.io/gh/Vedha286/mlops-iris/branch/master/graph/badge.svg?token=REKR951Y9K)](https://codecov.io/gh/Vedha286/mlops-iris)
+[![codecov](https://codecov.io/gh/Vedha286/cicd-iris/branch/master/graph/badge.svg?token=O0PHAA78UA)](https://codecov.io/gh/Vedha286/cicd-iris)
 
 ![check-code-coverage](https://img.shields.io/badge/code--coverage-100%25-brightgreen)
 
